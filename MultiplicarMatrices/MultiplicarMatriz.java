@@ -11,6 +11,7 @@ public class MultiplicarMatriz
             for(j = 0;j < 4;j++){
                 matriz1[i][j] = j;
                 matriz2[i][j] = j;
+				matrizRes[i][j] = 0;
             }
         }
         
